@@ -1,1 +1,2 @@
 sceond task
+updated readme
